@@ -1,0 +1,33 @@
+canvas{
+
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.heading{
+    
+    font-size: 30px;
+    width: 100%;
+    border: 2px solid white;
+    font-family: 'Black Ops One', cursive;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+.ObjectDetect{
+
+    font-size: 10px;
+    font-weight: bolder;
+   
+}
+#status{
+    font-size: 15px;
+    font-weight: bolder;
+   
+}
+.link{
+    font-size: 15px;
+    font-weight: bolder;
+   
+}

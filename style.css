@@ -1,0 +1,26 @@
+.heading{
+    
+    font-size: 30px;
+    width: 100%;
+    border: 2px solid white;
+    font-family: 'Black Ops One', cursive;
+}
+.link{
+    font-size: 25px;
+    box-sizing: border-box;
+    background-color: bisque;
+    border-radius: 4%;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bolder;
+    width: 200px;
+    
+    
+}
+.link:hover{
+    font-size: 25px;
+   
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
